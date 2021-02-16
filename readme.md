@@ -1,0 +1,2 @@
+## Finding an average with a for loop
+Write a for loop that repeats four times, asking the user to enter a number each iteration of the loop. The loop should also calculate the sum of the numbers entered. Print out the average of the numbers after the loop finishes.
